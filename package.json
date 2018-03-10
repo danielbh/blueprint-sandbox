@@ -21,6 +21,8 @@
   },
   "dependencies": {
     "@blueprintjs/core": "^2.0.0-rc.2",
+    "@blueprintjs/table": "^2.0.0-rc.2",
+    "moment": "^2.21.0",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
